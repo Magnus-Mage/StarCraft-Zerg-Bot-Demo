@@ -71,7 +71,5 @@ To work on this project, you will need the following:
 - **University of Alberta** for their contributions to StarCraft AI research.
 - **DeepMind's AlphaStar** for inspiration in advancing AI performance in StarCraft.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
